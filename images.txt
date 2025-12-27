@@ -13,4 +13,5 @@ rabbitmq
 minio/minio
 minio/mc
 postgres
-delron/elasticsearch-ik
+mysql:8.0
+mysql:5.7
