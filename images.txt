@@ -8,3 +8,9 @@ docker.n8n.io/n8nio/n8n
 mysql
 redis
 redis/redis-stack
+mongo
+rabbitmq
+minio/minio
+minio/mc
+postgres
+delron/elasticsearch-ik
