@@ -14,4 +14,4 @@ minio/minio
 minio/mc
 postgres
 mysql:8.0
-mysql:5.7
+xprobe/xinference:latest
