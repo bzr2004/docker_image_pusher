@@ -15,4 +15,4 @@ minio/mc
 postgres
 mysql:8.0
 xprobe/xinference:latest
-xprobe/xinference:latest-cpu
+registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:latest-cpu
