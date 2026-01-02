@@ -15,4 +15,4 @@ minio/mc
 postgres
 mysql:8.0
 xprobe/xinference:latest
-xprobe/xinference:cpu
+xprobe/xinference:latest-cpu
