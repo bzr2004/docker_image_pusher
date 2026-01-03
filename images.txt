@@ -16,4 +16,4 @@ postgres
 mysql:8.0
 xprobe/xinference:latest
 registry.cn-hangzhou.aliyuncs.com/xprobe_xinference/xinference:latest-cpu
-semitechnologies/weaviate:1.35.1
+dify/dify:latest
